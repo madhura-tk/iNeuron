@@ -1,4 +1,4 @@
-# +
+
 import tkinter
 from tkinter import *
 import tkinter.filedialog as fd
@@ -116,7 +116,7 @@ class MyFileExplorer:
         #self.root. protocol("WM_DELETE_WINDOW", self.on_closing)
 
         self.root.mainloop()
-# -
+
 
 
 
